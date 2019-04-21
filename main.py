@@ -10,3 +10,4 @@ for i in range(5):
     sentence = str(generate.gen())
     print("Your sentence :",sentence)
     messagebox.showinfo("Your sentence",sentence)
+    print("test edit")
